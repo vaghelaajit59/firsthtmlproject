@@ -1,0 +1,65 @@
+.color{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+
+
+}
+h1{
+    text-align: center;
+   color: blueviolet;
+ 
+}
+.table{
+    display: flex;
+  
+    justify-content: center;
+   
+   
+
+}
+.text{
+    display: flex;
+   margin-left:3%;
+    justify-content: center;
+}
+.ac{
+    color: rgb(239, 224, 224);
+    background-color: black;
+}
+.seven{
+color: white;
+background-color: black;
+margin: auto;
+}
+.eight{
+    color: white;
+    background-color: black;
+}
+.abc{
+    color: white;
+    background-color: black;
+}
+.plus{
+    color: white;
+    background-color: black;
+}
+.four{
+    color: white;
+    background-color: black;
+}
+.five{
+    color: white;
+    background-color: black;
+}
+.six{
+    color: white;
+    background-color: black;
+}
+.type{
+    margin-right: 10%;
+}
+.resultTextbox{
+    width: 100px;
+    height: auto;
+}
